@@ -1,0 +1,49 @@
+
+nav{
+width:50%;
+height:60px;
+background-color: grey;
+margin:auto;
+}
+
+ul{
+list-style:none;
+text-align: center;
+background-color: red;
+}
+
+li{
+display: inline-block;
+padding-top:20px;
+padding-left:10px;
+padding-right:10px;
+}
+
+p{
+margin: auto;
+width: 50%;
+margin-top: 30px;
+text-align: center;
+}
+
+body{
+   height:1500px;
+   position: relative;
+}
+
+#navbar1{
+    position:fixed;
+    width:100%;
+
+}
+
+#navbar2{
+    position:relative;
+    top:150px;
+
+}
+
+#navbar3{
+    position:absolute;
+    bottom:150px;
+}
